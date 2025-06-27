@@ -120,5 +120,5 @@ Logistic Regression was selected as the final model due to:
 
 **Muhammad Rahman Shiddiq**  
 _Data Analyst & Machine Learning Enthusiast_  
-[LinkedIn](https://linkedin.com/) | [GitHub](https://github.com/)
+[LinkedIn](www.linkedin.com/in/rahmanshiddiq) | [GitHub]([https://github.com/](https://github.com/rahmanS1d1q))
 
