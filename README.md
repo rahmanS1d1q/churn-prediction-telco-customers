@@ -1,4 +1,4 @@
-# 📦 Telco Customer Churn Prediction
+#Telco Customer Churn Prediction
 
 This project aims to predict customer churn in the telecommunications industry using a real-world dataset. Churn refers to customers who cancel their subscription, which is a major concern for companies due to lost revenue and increased acquisition costs.
 
